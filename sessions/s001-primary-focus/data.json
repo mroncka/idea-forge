@@ -1,0 +1,541 @@
+{
+  "session": {
+    "id": "s001-primary-focus",
+    "goal": "Determine the single best primary strategic focus for Martin in 2026.",
+    "criteria": [
+      "Strategic leverage",
+      "Speed to shippable output",
+      "Skill/learning alignment",
+      "Audience/revenue potential",
+      "Effort-to-impact ratio"
+    ],
+    "created_at": "2026-03-19T00:26:10Z"
+  },
+  "ideas": [
+    {
+      "id": 15,
+      "title": "AI-driven local SEO automation SaaS",
+      "description": "Apply Pizza Checker's logic to a broader market of local service businesses.",
+      "why": "Leverages existing contract-stage experience for a scalable, independent product launch.",
+      "matchups": [
+        {
+          "vs": "Interactive 3D AI avatars for web",
+          "won": true,
+          "reason": "Option A offers significantly higher strategic leverage and effort-to-impact ratio by building on proven domain experience to reach a faster shippable product with clearer revenue potential."
+        },
+        {
+          "vs": "Agentic Engineering bootcamp for devs",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Creator brand: The AI Architect",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 1,
+      "elo": 1245,
+      "deep": {
+        "market_research": {},
+        "workflow": [],
+        "timeline": []
+      }
+    },
+    {
+      "id": 16,
+      "title": "Advanced Remotion templates marketplace",
+      "description": "Create and sell high-end, programmatic video templates for AI developers.",
+      "why": "Passive income play that utilizes your specific skill set in Remotion and automation.",
+      "matchups": [
+        {
+          "vs": "Vectra Nexus reference implementation",
+          "won": true,
+          "reason": "Option A offers immediate revenue potential and faster shippable output by leveraging a proven niche skill set, whereas Option B carries higher R&D risk with longer lead times to monetization."
+        },
+        {
+          "vs": "Audience-first AI engineering platform",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Vectra Nexus reference implementation",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 2,
+      "elo": 1245,
+      "deep": {
+        "market_research": {},
+        "workflow": [],
+        "timeline": []
+      }
+    },
+    {
+      "id": 19,
+      "title": "B2B Automation infrastructure for agencies",
+      "description": "Build custom white-label content pipelines for creative agencies using your stack.",
+      "why": "Solves a high-value problem for businesses with large budgets and repetitive needs.",
+      "matchups": [
+        {
+          "vs": "Monetize @sleepseeker via Remotion automation",
+          "won": true,
+          "reason": "Option A offers superior strategic leverage and revenue potential by capturing high-ticket B2B budgets through a scalable service model, whereas Option B relies on volatile platform algorithms and lower-margin ad revenue."
+        },
+        {
+          "vs": "Open-source Vectra Nexus specification",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Monetize @sleepseeker via Remotion automation",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 3,
+      "elo": 1244,
+      "deep": {
+        "market_research": {},
+        "workflow": [],
+        "timeline": []
+      }
+    },
+    {
+      "id": 14,
+      "title": "Ship one product per month",
+      "description": "Aggressive shipping schedule of small, automated utilities to find product-market fit rapidly.",
+      "why": "Maximizes 'Speed to shippable output' and overcomes the '0 shipped' hurdle.",
+      "matchups": [
+        {
+          "vs": "Hybrid: Content-driven SaaS development",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Drive Pizza Checker to acquisition exit",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Drive Pizza Checker to acquisition exit",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 4,
+      "elo": 1217,
+      "deep": {
+        "market_research": {},
+        "workflow": [],
+        "timeline": []
+      }
+    },
+    {
+      "id": 7,
+      "title": "SaaS pivot: AI video infrastructure",
+      "description": "Productize the digital-stud pipeline into a B2B API for automated cinematic content generation.",
+      "why": "High effort-to-impact ratio; transforms internal research into a scalable recurring revenue stream.",
+      "matchups": [
+        {
+          "vs": "Ship digital-stud shorts via autonomous pipeline",
+          "won": false,
+          "reason": "Option B maximizes speed to shippable output and high-leverage portfolio building by validating internal R&D through tangible assets before committing to the heavy engineering overhead of a B2B infrastructure pivot."
+        },
+        {
+          "vs": "Monetize @sleepseeker via Remotion automation",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Launch agentic-log content series",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 5,
+      "elo": 1217,
+      "deep": {
+        "market_research": {},
+        "workflow": [],
+        "timeline": []
+      }
+    },
+    {
+      "id": 17,
+      "title": "Open-source 'Digital Stud' pipeline components",
+      "description": "Release modular parts of your 3D/AI pipeline as standalone open-source tools.",
+      "why": "Builds developer goodwill and serves as a lead magnet for consulting or SaaS.",
+      "matchups": [
+        {
+          "vs": "Consulting as an Agentic Engineer",
+          "won": false,
+          "reason": "Option B offers superior immediate revenue, direct market validation of cutting-edge AI skills, and higher strategic leverage through high-ticket networking in a physical tech hub."
+        },
+        {
+          "vs": "Consulting as an Agentic Engineer",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Open-source Vectra Nexus specification",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 6,
+      "elo": 1216
+    },
+    {
+      "id": 8,
+      "title": "Consulting as an Agentic Engineer",
+      "description": "Offer high-ticket freelance services implementing custom AI orchestration for Prague-based startups.",
+      "why": "High immediate revenue while staying at the cutting edge of practical AI implementation.",
+      "matchups": [
+        {
+          "vs": "Open-source 'Digital Stud' pipeline components",
+          "won": true,
+          "reason": "Option B offers superior immediate revenue, direct market validation of cutting-edge AI skills, and higher strategic leverage through high-ticket networking in a physical tech hub."
+        },
+        {
+          "vs": "Open-source 'Digital Stud' pipeline components",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Agentic Engineering bootcamp for devs",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 7,
+      "elo": 1215
+    },
+    {
+      "id": 4,
+      "title": "Drive Pizza Checker to acquisition exit",
+      "description": "Fulfill contract stages with co-founders to position the product for a strategic buyout.",
+      "why": "Provides liquidity and a proven 'shipped' track record to fund future autonomous ventures.",
+      "matchups": [
+        {
+          "vs": "Autonomous SOTA research newsletter",
+          "won": true,
+          "reason": "Option A provides the highest strategic leverage by securing financial liquidity and a definitive exit track record, which serves as a foundational multiplier for all future high-stakes ventures."
+        },
+        {
+          "vs": "Ship one product per month",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Ship one product per month",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 8,
+      "elo": 1215
+    },
+    {
+      "id": 2,
+      "title": "Launch agentic-log content series",
+      "description": "Publish Twitter clips and YouTube Shorts documenting the engineering process of AI orchestration.",
+      "why": "Builds a creator brand while practicing project-led learning; creates a feedback loop for technical work.",
+      "matchups": [
+        {
+          "vs": "Audience-first AI engineering platform",
+          "won": true,
+          "reason": "Option B provides higher strategic leverage by building a scalable audience engine that de-risks future products while ensuring rapid, high-impact output with lower engineering overhead."
+        },
+        {
+          "vs": "Creator brand: The AI Architect",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "SaaS pivot: AI video infrastructure",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 9,
+      "elo": 1213
+    },
+    {
+      "id": 10,
+      "title": "Blender-to-Web automation tool play",
+      "description": "Develop and sell a niche plugin connecting Blender/ComfyUI outputs to web frameworks.",
+      "why": "Niche software dev focus with clear utility for the growing AI artist market.",
+      "matchups": [
+        {
+          "vs": "Open-source Vectra Nexus specification",
+          "won": true,
+          "reason": "Option A offers a faster path to a shippable product with clear commercial demand, whereas Option B carries higher execution risk and lacks an immediate revenue engine despite its authority-building potential."
+        },
+        {
+          "vs": "Hybrid: Content-driven SaaS development",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Interactive 3D AI avatars for web",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 10,
+      "elo": 1212
+    },
+    {
+      "id": 1,
+      "title": "Ship digital-stud shorts via autonomous pipeline",
+      "description": "Release the 9 planned cinematic shorts using the 24/7 AI research pipeline (Blender/Wan/FLUX.2).",
+      "why": "High leverage; validates SOTA research into tangible assets and builds a high-end creative portfolio.",
+      "matchups": [
+        {
+          "vs": "SaaS pivot: AI video infrastructure",
+          "won": true,
+          "reason": "Option B maximizes speed to shippable output and high-leverage portfolio building by validating internal R&D through tangible assets before committing to the heavy engineering overhead of a B2B infrastructure pivot."
+        },
+        {
+          "vs": "Interactive 3D AI avatars for web",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Autonomous SOTA research newsletter",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 11,
+      "elo": 1212
+    },
+    {
+      "id": 20,
+      "title": "Interactive 3D AI avatars for web",
+      "description": "Combine DAZ/Blender and AI agents into a library for interactive web experiences.",
+      "why": "Cutting-edge skill alignment that bridges the gap between 3D research and web dev.",
+      "matchups": [
+        {
+          "vs": "AI-driven local SEO automation SaaS",
+          "won": false,
+          "reason": "Option A offers significantly higher strategic leverage and effort-to-impact ratio by building on proven domain experience to reach a faster shippable product with clearer revenue potential."
+        },
+        {
+          "vs": "Ship digital-stud shorts via autonomous pipeline",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Blender-to-Web automation tool play",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 12,
+      "elo": 1188
+    },
+    {
+      "id": 11,
+      "title": "Autonomous SOTA research newsletter",
+      "description": "Productize the 24/7 research pipeline into a paid weekly deep-dive for AI developers.",
+      "why": "Low friction way to monetize existing research habits and build industry authority.",
+      "matchups": [
+        {
+          "vs": "Drive Pizza Checker to acquisition exit",
+          "won": false,
+          "reason": "Option A provides the highest strategic leverage by securing financial liquidity and a definitive exit track record, which serves as a foundational multiplier for all future high-stakes ventures."
+        },
+        {
+          "vs": "Vectra Nexus reference implementation",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Ship digital-stud shorts via autonomous pipeline",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 13,
+      "elo": 1187
+    },
+    {
+      "id": 9,
+      "title": "Hybrid: Content-driven SaaS development",
+      "description": "Build a new product live on stream, combining the Agentic Log and SaaS pivot.",
+      "why": "Aligns learning, shipping, and marketing into a single high-leverage daily workflow.",
+      "matchups": [
+        {
+          "vs": "Ship one product per month",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Blender-to-Web automation tool play",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Audience-first AI engineering platform",
+          "won": true,
+          "reason": ""
+        }
+      ],
+      "rank": 14,
+      "elo": 1185
+    },
+    {
+      "id": 12,
+      "title": "Vectra Nexus reference implementation",
+      "description": "Build a functional TypeScript framework based on the Vectra Nexus orchestration spec.",
+      "why": "Turns a theoretical spec into a practical tool for the agentic engineering community.",
+      "matchups": [
+        {
+          "vs": "Advanced Remotion templates marketplace",
+          "won": false,
+          "reason": "Option A offers immediate revenue potential and faster shippable output by leveraging a proven niche skill set, whereas Option B carries higher R&D risk with longer lead times to monetization."
+        },
+        {
+          "vs": "Autonomous SOTA research newsletter",
+          "won": true,
+          "reason": ""
+        },
+        {
+          "vs": "Advanced Remotion templates marketplace",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 15,
+      "elo": 1185
+    },
+    {
+      "id": 18,
+      "title": "Agentic Engineering bootcamp for devs",
+      "description": "Create a high-end cohort-based course teaching the Vectra Nexus orchestration methodology.",
+      "why": "High revenue potential that forces deep mastery of your own technical specs.",
+      "matchups": [
+        {
+          "vs": "Creator brand: The AI Architect",
+          "won": true,
+          "reason": "A provides immediate revenue and forces technical mastery of your own IP, creating the high-authority proof of work necessary to fuel the long-term success of B."
+        },
+        {
+          "vs": "AI-driven local SEO automation SaaS",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Consulting as an Agentic Engineer",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 16,
+      "elo": 1184
+    },
+    {
+      "id": 13,
+      "title": "Creator brand: The AI Architect",
+      "description": "Position as the primary voice for high-end AI video and agentic workflows in Europe.",
+      "why": "Long-term strategic leverage; opens doors to partnerships, speaking, and investment.",
+      "matchups": [
+        {
+          "vs": "Agentic Engineering bootcamp for devs",
+          "won": false,
+          "reason": "A provides immediate revenue and forces technical mastery of your own IP, creating the high-authority proof of work necessary to fuel the long-term success of B."
+        },
+        {
+          "vs": "Launch agentic-log content series",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "AI-driven local SEO automation SaaS",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 17,
+      "elo": 1156
+    },
+    {
+      "id": 3,
+      "title": "Open-source Vectra Nexus specification",
+      "description": "Resolve the 5 open decisions and release the AI orchestration spec to the public.",
+      "why": "Establishes technical authority in the AI agent space and invites community collaboration/validation.",
+      "matchups": [
+        {
+          "vs": "Blender-to-Web automation tool play",
+          "won": false,
+          "reason": "Option A offers a faster path to a shippable product with clear commercial demand, whereas Option B carries higher execution risk and lacks an immediate revenue engine despite its authority-building potential."
+        },
+        {
+          "vs": "B2B Automation infrastructure for agencies",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Open-source 'Digital Stud' pipeline components",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 18,
+      "elo": 1155
+    },
+    {
+      "id": 5,
+      "title": "Monetize @sleepseeker via Remotion automation",
+      "description": "Scale the YouTube channel using automated ElevenLabs and Remotion workflows for passive revenue.",
+      "why": "Tool/infra play that generates cash flow through pure automation and engineering skill.",
+      "matchups": [
+        {
+          "vs": "B2B Automation infrastructure for agencies",
+          "won": false,
+          "reason": "Option A offers superior strategic leverage and revenue potential by capturing high-ticket B2B budgets through a scalable service model, whereas Option B relies on volatile platform algorithms and lower-margin ad revenue."
+        },
+        {
+          "vs": "SaaS pivot: AI video infrastructure",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "B2B Automation infrastructure for agencies",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 19,
+      "elo": 1155
+    },
+    {
+      "id": 6,
+      "title": "Audience-first AI engineering platform",
+      "description": "Build tools specifically for the 'Agentic Log' followers, solving their common automation bottlenecks.",
+      "why": "Reduces market risk by building what your existing community explicitly asks for.",
+      "matchups": [
+        {
+          "vs": "Launch agentic-log content series",
+          "won": false,
+          "reason": "Option B provides higher strategic leverage by building a scalable audience engine that de-risks future products while ensuring rapid, high-impact output with lower engineering overhead."
+        },
+        {
+          "vs": "Advanced Remotion templates marketplace",
+          "won": false,
+          "reason": ""
+        },
+        {
+          "vs": "Hybrid: Content-driven SaaS development",
+          "won": false,
+          "reason": ""
+        }
+      ],
+      "rank": 20,
+      "elo": 1153
+    }
+  ]
+}
